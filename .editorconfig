@@ -1,0 +1,3 @@
+[*.cs]
+dotnet_diagnostic.RMG037.severity = error # Unmapped target enum value
+dotnet_diagnostic.RMG038.severity = error # Unmapped source enum value
